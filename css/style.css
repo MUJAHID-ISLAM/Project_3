@@ -28,3 +28,120 @@
 
 background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
+.product1 ,.product2 ,.product3{
+color: white;
+padding: 10px 20px;
+
+}
+.product1 img,.product2 img,.product3 img{
+    padding: 0px 20px;
+   
+    width: 150px;
+    }
+    .category{
+        margin-top: 80px;
+       margin-bottom: 80px;
+    }
+
+.product1{
+background-color: #FFA500;
+background-image: linear-gradient(to right ,#c58103,#FFA500);
+border-radius: 10px;
+}
+.product2{
+   background-color: #DA70D6; 
+   background-image: linear-gradient(to right ,#a1549f,#eb80e7);
+   border-radius: 10px;
+}
+.product3{
+    background-color: #0000FF;
+    background-image: linear-gradient(to right ,#0202ad,#1b1bfa);
+    border-radius: 10px;
+}
+
+.card-style{
+    outline: none;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(216, 216, 216);
+    border-radius: 10px;
+    background-color: rgb(250, 250, 250);
+}
+.card-style2{
+    outline: none;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(216, 216, 216);
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(250, 250, 250);
+}
+
+
+.shoes-css{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    margin-top: 20px;
+}
+#Backpack{
+    margin-bottom: 50px; 
+}
+.footer-style{
+    background-color: white;
+    border: none;
+}
+
+.sumbit{
+    background-color: #fcf3f3;
+   
+    margin-top: 80px;
+    width: 100%;
+}
+.last-footer{
+    margin-top: 100px; 
+    text-align: center;
+}
+.form-group{
+    width: 50%;
+    margin: 0 auto;
+}
+.btn-primary{
+   
+   margin-left: 280px; 
+}
+
+.card-style:hover{
+    transform: scale(1.08); 
+}
+
+  .card-style{
+ 
+    transition: transform .5s;
+    margin: 0 auto;  
+}
+.card-style2:hover{
+    transform: scale(1.08); 
+}
+
+  .card-style2{
+ 
+    transition: transform .5s;
+    margin: 0 auto;  
+}
+
+.hoverimg:hover{
+    transform: scale(1.2);  
+}
+
+
+.hoverimg{
+  
+    transition: transform .5s;
+    margin: 0 auto;  
+}
+
+.d-block:hover{
+    transform: scale(1.2); 
+}
+.d-block{
+    transition: transform .5s;
+    margin: 0 auto;    
+}
