@@ -1,1 +1,30 @@
-body{background-color: brown;}
+.background_color{
+ background-color: #FCEAE8;
+}
+.price-color{
+    color: teal;
+}
+.padding{
+    padding: 20px 50px;
+}
+.padding-bottom{
+    padding: 40px 40px;
+}
+.margin-border{
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.Backcolor{
+    background-color: rgb(112, 112, 112);
+}
+.Backcolor2{
+    background-color: #ffffff;
+   
+}
+.btn-color{
+   
+}
+.buy-now-button{
+
+background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
